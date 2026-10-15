@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+diabetes.zip
+diabetes_data/
+.ipynb_checkpoints/
